@@ -1,7 +1,7 @@
 # Suicide Rate Analysis (1995-2016)
   
 ## Project Overview
-Hello there! This project is all about the analysis of Suicide Rate Trend from 1995 to 2016.
+Hello there! This project is all about the analysis of Suicide Rate Trend from 1995 to 2016 using Python.
 
 ## Author
 * [rfhtorres28](https://github.com/rfhtorres28)
