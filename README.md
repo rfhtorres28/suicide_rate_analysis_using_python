@@ -45,6 +45,7 @@ In this project, I solely used Python for all Data Analysis process from Loading
 ## Data_Cleaning_Process 
 Notebook file for Data Cleaning is uploaded in the repository section. 
 https://github.com/rfhtorres28/suicide_rate_analysis_using_python/blob/main/Suicide_Rate_Analysis.ipynb
+
 Steps: 
 
 1. Load the CSV file using pd.read_csv()
