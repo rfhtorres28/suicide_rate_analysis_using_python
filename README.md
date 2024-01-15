@@ -6,7 +6,7 @@
 ## Table of Contents
 * [Methods](#Methods)
 * [Data_Cleaning_Process](#Data_Cleaning_Process)
-* [SQL_EDA_Implementation](#SQL_EDA_Implementation)
+* [Exploratory_Data_Analysis](#Exploratory_Data_Analysis)
 * [Overview_of_the_Results](#Overview_of_the_Results)
 * [Insights_and_Recommendation](#Insights_and_Recommendation)
   
