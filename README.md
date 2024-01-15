@@ -1,4 +1,7 @@
 # Suicide Rate Analysis (1995-2016)
+  
+## Project Overview
+Hello there! This project is all about the analysis of Suicide Rate Trend from 1995 to 2016.
 
 ## Author
 * [rfhtorres28](https://github.com/rfhtorres28)
@@ -9,9 +12,6 @@
 * [Exploratory_Data_Analysis](#Exploratory_Data_Analysis)
 * [Overview_of_the_Results](#Overview_of_the_Results)
 * [Insights_and_Recommendation](#Insights_and_Recommendation)
-  
-## Project Overview
-Hello there! This project is all about the analysis of Suicide Rate Trend from 1995 to 2016.
 
 ## Data Source
 * The CSV files were downloaded from kaggle website. I created a database on SQL Server and make a table for the cleaned data after Data Cleaning from Python. 
@@ -44,7 +44,7 @@ In this project, I solely used Python for all Data Analysis process from Loading
 
 ## Data_Cleaning_Process 
 Notebook file for Data Cleaning is uploaded in the repository section. 
-
+https://github.com/rfhtorres28/suicide_rate_analysis_using_python/blob/main/Suicide_Rate_Analysis.ipynb
 Steps: 
 
 1. Load the CSV file using pd.read_csv()
